@@ -1,0 +1,10 @@
+body {
+  background-color: #c3cfe2;
+}
+
+.content {
+  width: 720px;
+  height: auto;
+  margin: 120px auto;
+  border: 100px;
+}
